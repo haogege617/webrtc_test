@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1823,5): warning : The referenced project 'audioproc_debug_proto.vcxproj' does not exist.
+  aec_core_sse2.c
+  aec_rdft_sse2.c
+  ns_core.c
+  noise_suppression.c
+  digital_agc.c
+  analog_agc.c
+  aec_rdft.c
+  aec_core.c
+d:\duoyi\webrtcaudioalltest\webrtc\modules\audio_processing\aec\aec_rdft.c(45): warning C4459: “ip”的声明隐藏了全局声明
+  d:\duoyi\webrtcaudioalltest\webrtc\modules\audio_processing\aec\aec_rdft.c(43): note: 参见“ip”的声明
+d:\duoyi\webrtcaudioalltest\webrtc\modules\audio_processing\aec\aec_rdft.c(136): warning C4459: “ip”的声明隐藏了全局声明
+  d:\duoyi\webrtcaudioalltest\webrtc\modules\audio_processing\aec\aec_rdft.c(43): note: 参见“ip”的声明
+  aec_resampler.c
+  echo_cancellation.c
+  aecm_core_c.c
+  aecm_core.c
+  echo_control_mobile.c
+  ring_buffer.c
+  delay_estimator_wrapper.c
+  fft4g.c
+  delay_estimator.c
+  audio_processing.vcxproj -> ..\..\build\Debug\lib\audio_processing.lib
